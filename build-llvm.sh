@@ -16,7 +16,7 @@
 
 set -e
 
-: ${LLVM_VERSION:=5ac12951b4e9bbfcc5791282d0961ec2b65575e9}
+: ${LLVM_VERSION:=b7355ee99ec63f44a6dc4f7dad9bb5a130bcc0eb}
 ASSERTS=OFF
 unset HOST
 BUILDDIR="build"
